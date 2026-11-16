@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="Entidades/Entidades.csproj" />
+  <Project Path="Seguridad/Seguridad.csproj" />
+  <Project Path="TransferenciaDatos/TransferenciaDatos.csproj" />
+  <Project Path="Datos/Datos.csproj" />
+  <Project Path="Negocio/Negocio.csproj" />
+  <Project Path="Presentacion/Presentacion.csproj" />
+  <Project Path="Pruebas.Unitarias/Pruebas.Unitarias.csproj" />
+</Solution>
